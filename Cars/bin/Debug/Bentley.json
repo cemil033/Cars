@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "Flying Spur",
+    "Vendor": "Bentley",
+    "Year": 2020,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/Aewz6/s3/bentley-flying-spur-v8-front-end.jpg",
+    "Image": "https://cdn.motor1.com/images/mgl/Aewz6/s3/bentley-flying-spur-v8-front-end.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Continental",
+    "Vendor": "Bentley",
+    "Year": 2020,
+    "ImagePath": "https://www.allcarz.ru/wp-content/uploads/2017/02/foto-conti-gt-iii_01.jpg",
+    "Image": "https://www.allcarz.ru/wp-content/uploads/2017/02/foto-conti-gt-iii_01.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Mulsanne",
+    "Vendor": "Bentley",
+    "Year": 2020,
+    "ImagePath": "https://hips.hearstapps.com/hmg-prod/images/2020-bentley-mulsanne-speed-mmp-1-1588796031.jpg",
+    "Image": "https://hips.hearstapps.com/hmg-prod/images/2020-bentley-mulsanne-speed-mmp-1-1588796031.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Bentayga",
+    "Vendor": "Bentley",
+    "Year": 2020,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/brQAr/s1/2020-bentley-bentayga-speed.jpg",
+    "Image": "https://cdn.motor1.com/images/mgl/brQAr/s1/2020-bentley-bentayga-speed.jpg"
+  }
+]

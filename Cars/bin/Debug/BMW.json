@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "M3",
+    "Vendor": "BMW",
+    "Year": 2020,
+    "ImagePath": "https://mediapool.bmwgroup.com/cache/P9/201805/P90304842/P90304842-the-new-bmw-m3-cs-05-2018-600px.jpg",
+    "Image": "https://mediapool.bmwgroup.com/cache/P9/201805/P90304842/P90304842-the-new-bmw-m3-cs-05-2018-600px.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "M4",
+    "Vendor": "BMW",
+    "Year": 2020,
+    "ImagePath": "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m4-edition-m-heritage-102-1567530299.jpg?crop=0.614xw:0.690xh;0.184xw,0.256xh&resize=640:*",
+    "Image": "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m4-edition-m-heritage-102-1567530299.jpg?crop=0.614xw:0.690xh;0.184xw,0.256xh&resize=640:*"
+  },
+  {
+    "Id": 2,
+    "Model": "M5",
+    "Vendor": "BMW",
+    "Year": 2020,
+    "ImagePath": "https://www.carpixel.net/w/29c93e1bd4d77e2f8d29e93a61b90d5a/bmw-m5-competition-car-wallpaper-99584.jpg",
+    "Image": "https://www.carpixel.net/w/29c93e1bd4d77e2f8d29e93a61b90d5a/bmw-m5-competition-car-wallpaper-99584.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "M6",
+    "Vendor": "BMW",
+    "Year": 2020,
+    "ImagePath": "https://cdn.riastatic.com/photosnewr/auto/newauto_photos/bmw-m6__778485-460x345.jpg",
+    "Image": "https://cdn.riastatic.com/photosnewr/auto/newauto_photos/bmw-m6__778485-460x345.jpg"
+  }
+]

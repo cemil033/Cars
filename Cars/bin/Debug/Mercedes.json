@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "C630",
+    "Vendor": "Mercedes",
+    "Year": 2020,
+    "ImagePath": "http://cdn.carbuzz.com/gallery-images/1600/509000/400/509496.jpg",
+    "Image": "http://cdn.carbuzz.com/gallery-images/1600/509000/400/509496.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "E630",
+    "Vendor": "Mercedes",
+    "Year": 2020,
+    "ImagePath": "https://avtonam.ru/wp-content/uploads/2020/06/mercedes-amg-e-63-2021-8.jpg",
+    "Image": "https://avtonam.ru/wp-content/uploads/2020/06/mercedes-amg-e-63-2021-8.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "S630",
+    "Vendor": "Mercedes",
+    "Year": 2020,
+    "ImagePath": "https://images5.alphacoders.com/919/919839.jpg",
+    "Image": "https://images5.alphacoders.com/919/919839.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "G63",
+    "Vendor": "Mercedes",
+    "Year": 2020,
+    "ImagePath": "https://top-car.ru/upload/gallery/big/5132eaf2356b1eb8d3271195148d1464.jpg",
+    "Image": "https://top-car.ru/upload/gallery/big/5132eaf2356b1eb8d3271195148d1464.jpg"
+  }
+]

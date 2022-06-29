@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "S7",
+    "Vendor": "AUDI",
+    "Year": 2020,
+    "ImagePath": "https://auto.ironhorse.ru/wp-content/uploads/2020/07/S7-2-front.jpg",
+    "Image": "https://auto.ironhorse.ru/wp-content/uploads/2020/07/S7-2-front.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "S8",
+    "Vendor": "AUDI",
+    "Year": 2020,
+    "ImagePath": "https://bycars.ru/upload/photos/507/50719.jpg?1562165987",
+    "Image": "https://bycars.ru/upload/photos/507/50719.jpg?1562165987"
+  },
+  {
+    "Id": 2,
+    "Model": "A5",
+    "Vendor": "AUDI",
+    "Year": 2020,
+    "ImagePath": "https://www.allcarz.ru/wp-content/uploads/2019/09/foto-a5-lineup-fl_02.jpg",
+    "Image": "https://www.allcarz.ru/wp-content/uploads/2019/09/foto-a5-lineup-fl_02.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Q7",
+    "Vendor": "AUDI",
+    "Year": 2020,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/eXLLA/s1/2020-audi-sq7-tdi.jpg",
+    "Image": "https://cdn.motor1.com/images/mgl/eXLLA/s1/2020-audi-sq7-tdi.jpg"
+  }
+]
